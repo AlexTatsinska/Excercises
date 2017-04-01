@@ -1,0 +1,5 @@
+C:\Projects\VisualStudio\3_ConsoleIO_ConditionalOperators_Loops\Task1e_IsPrime\Task1e_IsPrime\bin\Debug\Task1e_IsPrime.exe.config
+C:\Projects\VisualStudio\3_ConsoleIO_ConditionalOperators_Loops\Task1e_IsPrime\Task1e_IsPrime\bin\Debug\Task1e_IsPrime.exe
+C:\Projects\VisualStudio\3_ConsoleIO_ConditionalOperators_Loops\Task1e_IsPrime\Task1e_IsPrime\bin\Debug\Task1e_IsPrime.pdb
+C:\Projects\VisualStudio\3_ConsoleIO_ConditionalOperators_Loops\Task1e_IsPrime\Task1e_IsPrime\obj\Debug\Task1e_IsPrime.exe
+C:\Projects\VisualStudio\3_ConsoleIO_ConditionalOperators_Loops\Task1e_IsPrime\Task1e_IsPrime\obj\Debug\Task1e_IsPrime.pdb

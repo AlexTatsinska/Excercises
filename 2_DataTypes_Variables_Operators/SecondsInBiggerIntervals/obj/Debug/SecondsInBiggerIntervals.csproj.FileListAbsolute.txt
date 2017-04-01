@@ -1,0 +1,1 @@
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\SecondsInBiggerIntervals\bin\Debug\SecondsInBiggerIntervals.exe.config

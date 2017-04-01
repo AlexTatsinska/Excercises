@@ -1,0 +1,6 @@
+D:\cSharp\excercises\3_ConsoleIO_ConditionalOperators_Loops\Task2a_PrintSumOfN\Task2a_PrintSumOfN\bin\Debug\Task2a_PrintSumOfN.exe.config
+D:\cSharp\excercises\3_ConsoleIO_ConditionalOperators_Loops\Task2a_PrintSumOfN\Task2a_PrintSumOfN\bin\Debug\Task2a_PrintSumOfN.exe
+D:\cSharp\excercises\3_ConsoleIO_ConditionalOperators_Loops\Task2a_PrintSumOfN\Task2a_PrintSumOfN\bin\Debug\Task2a_PrintSumOfN.pdb
+D:\cSharp\excercises\3_ConsoleIO_ConditionalOperators_Loops\Task2a_PrintSumOfN\Task2a_PrintSumOfN\obj\Debug\Task2a_PrintSumOfN.csprojResolveAssemblyReference.cache
+D:\cSharp\excercises\3_ConsoleIO_ConditionalOperators_Loops\Task2a_PrintSumOfN\Task2a_PrintSumOfN\obj\Debug\Task2a_PrintSumOfN.exe
+D:\cSharp\excercises\3_ConsoleIO_ConditionalOperators_Loops\Task2a_PrintSumOfN\Task2a_PrintSumOfN\obj\Debug\Task2a_PrintSumOfN.pdb

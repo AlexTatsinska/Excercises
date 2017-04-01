@@ -1,0 +1,6 @@
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\SecondsInBiggerIntervals\Task0c_ReadAge\bin\Debug\Task0c_ReadAge.exe.config
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\SecondsInBiggerIntervals\Task0c_ReadAge\bin\Debug\Task0c_ReadAge.exe
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\SecondsInBiggerIntervals\Task0c_ReadAge\bin\Debug\Task0c_ReadAge.pdb
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\SecondsInBiggerIntervals\Task0c_ReadAge\obj\Debug\Task0c_ReadAge.exe
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\SecondsInBiggerIntervals\Task0c_ReadAge\obj\Debug\Task0c_ReadAge.pdb
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\SecondsInBiggerIntervals\Task0c_ReadAge\obj\Debug\Task0c_ReadAge.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\InchToCm\InchToCm\bin\Debug\InchToCm.exe.config
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\InchToCm\InchToCm\bin\Debug\InchToCm.exe
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\InchToCm\InchToCm\bin\Debug\InchToCm.pdb
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\InchToCm\InchToCm\obj\Debug\InchToCm.exe
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\InchToCm\InchToCm\obj\Debug\InchToCm.pdb

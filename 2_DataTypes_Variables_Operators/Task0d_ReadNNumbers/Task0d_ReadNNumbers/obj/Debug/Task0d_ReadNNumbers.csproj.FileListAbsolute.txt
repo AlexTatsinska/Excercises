@@ -1,0 +1,5 @@
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\Task0d_ReadNNumbers\Task0d_ReadNNumbers\bin\Debug\Task0d_ReadNNumbers.exe.config
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\Task0d_ReadNNumbers\Task0d_ReadNNumbers\bin\Debug\Task0d_ReadNNumbers.exe
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\Task0d_ReadNNumbers\Task0d_ReadNNumbers\bin\Debug\Task0d_ReadNNumbers.pdb
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\Task0d_ReadNNumbers\Task0d_ReadNNumbers\obj\Debug\Task0d_ReadNNumbers.exe
+C:\Projects\VisualStudio\2_DataTypes_Variables_Operators\Task0d_ReadNNumbers\Task0d_ReadNNumbers\obj\Debug\Task0d_ReadNNumbers.pdb
